@@ -1,4 +1,4 @@
-# Welcome to Our Platform
+# Welcome to Our Platform...
 
 We believe in the power of **simple, beautiful content**. Our mission is to help creators focus on what matters most — their ideas.
 
