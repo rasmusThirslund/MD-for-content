@@ -1,0 +1,18 @@
+hero:
+  heading:
+    highlight: "Craft Your Story"
+    main: "With Markdown"
+  description: >
+    Transform your ideas into beautifully formatted content. Our platform
+    makes it effortless to write, preview, and publish markdown-powered
+    pages that captivate your audience.
+  image:
+    src: "/images/planet-light-dark.webp"
+    alt: "Planet with light and dark contrast"
+  cta:
+    primary:
+      label: "Get Started"
+      href: "/get-started"
+    secondary:
+      label: "Learn More"
+      href: "/learn-more"

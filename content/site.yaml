@@ -1,0 +1,14 @@
+meta:
+  title: "MD for Content"
+  description: "A markdown-powered content platform"
+  
+navigation:
+  - label: "Home"
+    href: "/"
+  - label: "Features"
+    href: "/features"
+  - label: "Docs"
+    href: "/docs"
+  - label: "Blog"
+    href: "/blog"
+
